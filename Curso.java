@@ -1,4 +1,4 @@
-package com.mycompany.atividadediagnostica2;
+package com.mycompany.atividade02;
 
 /**
  *
